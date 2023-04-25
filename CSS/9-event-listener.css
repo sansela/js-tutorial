@@ -1,0 +1,30 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    background-color: yellowgreen;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+button {
+ background-color: pink;
+ padding: 10px;
+ border: none;
+ border-radius: 5px;
+ font: 900 1.5rem "";
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.divClass {
+    background-color: tomato;
+    padding: 2vmax;
+    transition: all 0.5s;
+    cursor: pointer;
+}
