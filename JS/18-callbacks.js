@@ -1,5 +1,5 @@
 //Callback functions - function which is passed as an argument to another function.
-//Callback hell - multiple call backs creates havoc.
+//Callback hell - multiple call backs creates havoc. Solution is promises
 
 const arr = [1, 2, 3, 4, 5];
 
